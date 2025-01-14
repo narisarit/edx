@@ -1,0 +1,6 @@
+install.packages(c("dslabs", "ggplot2", "dplyr", "tidyr", "tidyverse"))
+library(dslabs)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(tidyverse)

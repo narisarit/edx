@@ -1,1 +1,1 @@
-# edx_lecture_data_science
+# practice for edx
